@@ -1,0 +1,38 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Local environment variables
+.env
+.env.*
+
+# Ignore downloaded/archive files
+*.zip
+*.rar
+
+# Ignore large raw datasets
+# Remove this line if you specifically want to upload your CSV
+# data/*.csv
